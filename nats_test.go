@@ -36,7 +36,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/nats-io/jwt"
+	"github.com/nats-io/jwt/v2"
 	"github.com/nats-io/nats-server/v2/server"
 	natsserver "github.com/nats-io/nats-server/v2/test"
 	"github.com/nats-io/nkeys"
